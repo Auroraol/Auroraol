@@ -74,16 +74,14 @@
 
 <!-- 敲代码的图片 -->
 
-<div align="center" ><img order-radius="100px" src="https://tong-1306822294.cos.ap-beijing.myqcloud.com/tong/picture/202212222312468.gif"/></div>
 
-<br>
 
 <!-- 个人资料徽标 -->
 
 <div align="center">
   <a href="https://www.atong.run"><img src="https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue"></a>&emsp;
   <a href="https://www.csdn.net/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-  <a href="https://space.bilibili.com/385227660?spm_id_from=333.1007.0.0"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
+  <a href="https://space.bilibili.com/365166956"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.zhihu.com/people/qian-lan-wa"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 <!-- 访客数统计徽标 -->
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/142682259b230dd9ed8d7382509ecf5eab5cc54aea56d1ea7c4871292adfff8a/68747470733a2f2f6368616e676b756e2e64652f75726c737461743f6d6f64653d676974687562267265706f3d74616c6b676f2f6e69676874"><img src="https://camo.githubusercontent.com/142682259b230dd9ed8d7382509ecf5eab5cc54aea56d1ea7c4871292adfff8a/68747470733a2f2f6368616e676b756e2e64652f75726c737461743f6d6f64653d676974687562267265706f3d74616c6b676f2f6e69676874" alt="" data-canonical-src="https://changkun.de/urlstat?mode=github&amp;repo=talkgo/night" style="max-width: 100%;"></a>
