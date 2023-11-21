@@ -107,7 +107,7 @@
 
 
 
-  ![C/CPP](https://img.shields.io/badge/-CPP-red?logo=CPP&logoColor=white)
+- ![C/CPP](https://img.shields.io/badge/-CPP-red?logo=CPP&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-yellow?logo=Linux&logoColor=white)
   ![java](https://img.shields.io/badge/-Java-blue?logo=java&logoColor=white)
