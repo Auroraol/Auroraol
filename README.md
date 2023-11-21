@@ -91,7 +91,7 @@
 
 ## About Me :raised_hands:
 
-- 🔭 
+- 👨🏽‍💻 
 - 🤔 方向：
 - ⚡ 个签：君子慎独，不欺暗室。 
 
@@ -104,14 +104,10 @@
 - :heart: nothing. 
 
 <p>
-
-
-
 - ![C/CPP](https://img.shields.io/badge/-CPP-red?logo=CPP&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-blue?logo=Python&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-yellow?logo=Linux&logoColor=white)
   ![java](https://img.shields.io/badge/-Java-blue?logo=java&logoColor=white)
-
 </p>
 
 <!--
@@ -124,7 +120,12 @@
 - 🟢 [掘金](https://juejin.cn/user/1069181981179501)
 - 🟤 [知乎](https://www.zhihu.com/people/qian-lan-wa)
 -->
+## Contact me:
 
+- Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn)
+- Twitter: [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AlbertAbdilim) 
+- Weibo: [![Weibo](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1935602951)
+- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](
 
 
 <!--
