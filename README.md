@@ -151,4 +151,4 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Auroraol&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Cyan's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auroraol&layout=compact&theme=buefy&hide_border=true&langs_count=8" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-![](https://github-profile-trophy.vercel.app/?username=Auroraol&theme=flat&title=Stars,Followers,MultiLanguage,Commits,Issues,Experience,Repositories&column=97&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=Auroraol&title=Stars,Followers,MultiLanguage,Commits,Issues,Experience,Repositories&column=7&margin-w=10)
