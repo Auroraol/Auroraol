@@ -124,7 +124,7 @@
 - 🟢 [掘金](https://juejin.cn/user/1069181981179501)
 - 🟤 [知乎](https://www.zhihu.com/people/qian-lan-wa)
 -->
-## Contact me:
+## Contact me 📫
 
 - Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn)
 - Twitter: [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AlbertAbdilim) 
