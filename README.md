@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/Auroraol">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=昨日之深渊,今日之浅谈;&center=true&size=27" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=024EF7&width=435&lines=%E6%97%A8%E6%97%A5%E4%B9%8B%E6%B7%B1%E6%B8%90%EF%BC%9B%E4%BB%8A%E6%97%A5%E4%B9%8B%E6%B5%85%E8%80%83%3B&center=true&size=27" alt="Typing SVG" />
   </a>
 </div>
 
